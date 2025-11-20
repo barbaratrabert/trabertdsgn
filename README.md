@@ -35,11 +35,11 @@ Nova Solutions – Área de Marketing
 ## Antecedentes
 ### 1. Emma Vallon
 
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/emmavallon-1.png)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/emmavallon-2.png)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/emmavallon-3.png)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/emmavallon-4.png)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/emmavallon-5.png)
+![Image alt text](https://trabertdsgn.cl/img/emmavallon-1.png)
+![Image alt text](https://trabertdsgn.cl/img/emmavallon-2.png)
+![Image alt text](https://trabertdsgn.cl/img/emmavallon-3.png)
+![Image alt text](https://trabertdsgn.cl/img/emmavallon-4.png)
+![Image alt text](https://trabertdsgn.cl/img/emmavallon-5.png)
 
 
 **Qué es:** Portafolio de trabajos de la diseñadora Emma Vallon.
@@ -52,9 +52,9 @@ Formato de cuartillas para dividir la información, orden y diagramación. |Exce
 
 ### 2. Brend
 
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/brend-1.png)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/brend-2.png)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/brend-3.png)
+![Image alt text](https://trabertdsgn.cl/img/brend-1.png)
+![Image alt text](https://trabertdsgn.cl/img/brend-2.png)
+![Image alt text](https://trabertdsgn.cl/img/brend-3.png)
 
 **Qué es:** página web que contiene el portafolio de Brend, estudio de diseño.
 
@@ -65,8 +65,8 @@ Rescato | Cambiaría
 Profesionalismo dinámico al presentar la información. | Agregaría elementos estáticos, cambiaría solidez de los colores para entregarle un aspecto más "sublime".
 
 ### 3. D Contraste Design
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/contrastedesign-1.png)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/contrastedesign-2.png)
+![Image alt text](https://trabertdsgn.cl/img/contrastedesign-1.png)
+![Image alt text](https://trabertdsgn.cl/img/contrastedesign-2.png)
 
 **Qué es:** portafolio digital de Daniela Contreras de D Contraste Design, disponible en Behance.
 
@@ -77,9 +77,9 @@ Rescato | Cambiaría
 Distribución de las imágenes de forma dinámica y coherente. Mockups integrados en la gráfica. | Agregaría separadores y espacio entre los proyectos para poder hacer más legible la información.
 
 ### 4. Fatima Solis Design
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/fatimasolis-1.png)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/fatimasolis-2.png)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/fatimasolis-3.png)
+![Image alt text](https://trabertdsgn.cl/img/fatimasolis-1.png)
+![Image alt text](https://trabertdsgn.cl/img/fatimasolis-2.png)
+![Image alt text](https://trabertdsgn.cl/img/fatimasolis-3.png)
 
 **Qué es:** Fragmentos del portafolio de Fatima Solis publicado en Behance, diseñadora
 
@@ -93,10 +93,12 @@ Uso de gradientes y fragmentación de información. |La identidad visual podría
 Las siguientes imágenes muestran referentes en cuanto a información y gráfica que me gustaría abstraer para aplicar en mi portafolio.
 
 MIUX DSGN
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/MIUX-1.png) | ![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/MIUX-2.png) | ![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/MIUX-3.png)
+![Image alt text](https://trabertdsgn.cl/img/MIUX-1.png)
+![Image alt text](https://trabertdsgn.cl/img/MIUX-2.png)
+![Image alt text](https://trabertdsgn.cl/img/MIUX-3.png)
 
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/referente-1.jpeg)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/referente-2.jpeg)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/referente-3.jpeg)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/svuoi-1.png)
-![Image alt text](https://barbaratrabert.github.io/barbaratrabertdsgn/img/svuoi-2.png)
+![Image alt text](https://trabertdsgn.cl/img/referente-1.jpeg)
+![Image alt text](https://trabertdsgn.cl/img/referente-2.jpeg)
+![Image alt text](https://trabertdsgn.cl/img/referente-3.jpeg)
+![Image alt text](https://trabertdsgn.cl/img/svuoi-1.png)
+![Image alt text](https://trabertdsgn.cl/img/svuoi-2.png)
