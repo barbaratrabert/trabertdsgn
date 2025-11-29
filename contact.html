@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto - Bárbara Trabert</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    
+    <script src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.29/bundled/lenis.min.js"></script>
+</head>
+<body class="page-contact">
+
+    <!-- NAVBAR -->
+    <nav id="navbar">
+        <div class="logo"><a href="index.html" style="color:inherit; text-decoration:none;">Bárbara Trabert</a></div>
+        <ul class="nav-links">
+            <li><a href="projects.html">Ver Proyectos</a></li>
+            <li><a href="index.html#emprendedores">Emprendedores</a></li>
+            <li><a href="index.html#corporativos">Corporativos</a></li>
+            <li><a href="contact.html" class="active">Contacto</a></li>
+            <li><a href="contact.html" class="nav-btn">Hablemos! →</a></li>
+        </ul>
+    </nav>
+
+    <!-- HERO CONTACTO (Imagen de Hojas/Flores) -->
+    <section class="contact-hero">
+        <div class="hero-content">
+            <h1 class="reveal fade-up">Cuéntame sobre<br>tu proyecto</h1>
+        </div>
+    </section>
+
+    <!-- FORMULARIO -->
+    <section class="contact-form-section">
+        
+        <div class="form-intro reveal fade-up delay-100">
+            <h2>Una idea siempre es un comienzo</h2>
+            <p>
+                Si quieres comenzar a trabajar conmigo, o tienes algo<br>
+                en mente, escríbeme! me encantaría saber cómo<br>
+                puedo ayudarte.
+            </p>
+        </div>
+
+        <form class="main-form reveal fade-up delay-200">
+            
+            <div class="form-group">
+                <label>Nombre y Apellido</label>
+                <input type="text" name="nombre" required>
+            </div>
+
+            <div class="form-group">
+                <label>Cómo se llama tu empresa? (*opcional)</label>
+                <input type="text" name="empresa">
+            </div>
+
+            <div class="form-group">
+                <label>Mail</label>
+                <input type="email" name="email" required>
+            </div>
+
+            <div class="form-group">
+                <label>Número de WhatsApp</label>
+                <input type="tel" name="telefono">
+            </div>
+
+            <div class="form-group">
+                <label>En qué país te encuentras?</label>
+                <input type="text" name="pais">
+            </div>
+
+            <div class="form-group">
+                <label>Por qué te gustaría trabajar conmigo?</label>
+                <textarea name="motivo" rows="4"></textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Cómo supiste sobre mi trabajo?</label>
+                <input type="text" name="fuente">
+            </div>
+
+            <div class="form-footer">
+                <p>gracias por tu respuesta!</p>
+                <!-- Botón de enviar (opcional, no salía en la foto pero necesario para que funcione) -->
+                <button type="submit" class="submit-btn">Enviar</button>
+            </div>
+
+        </form>
+
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <div class="footer-logo">trabert<span>dsgn</span></div>
+                <p class="footer-role">Bárbara Trabert – Diseñadora Freelance</p>
+            </div>
+            <div class="footer-divider"></div>
+            <div class="footer-links">
+                <a href="index.html" class="footer-link">Volver al Inicio</a>
+                <a href="#" class="footer-link">LinkedIn</a>
+                <a href="#" class="footer-link">Behance</a>
+            </div>
+            <div class="footer-contact-info">
+                <span class="footer-label">Mail</span>
+                <a href="mailto:btrabert@uc.cl" class="footer-email">btrabert@uc.cl</a>
+            </div>
+        </div>
+        <div class="footer-cta">
+            <a href="contact.html" class="cta-text">
+                Quiero trabajar contigo
+                <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M5 5L75 75M75 75V20M75 75H20" stroke="white" stroke-width="2"/>
+                </svg>
+            </a>
+        </div>
+        <div class="footer-bottom">
+            <span>© Desarrollado por TrabertDSGN, 2025</span>
+            <span>Todos los derechos reservados.</span>
+        </div>
+    </footer>
+
+    <script src="sketch.js"></script>
+</body>
+</html>
